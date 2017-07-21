@@ -9,3 +9,4 @@ builds:
      - autoconf 
      - libtool 
      - make
+     - ncurses-devel
